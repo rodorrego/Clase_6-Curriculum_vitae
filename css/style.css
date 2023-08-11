@@ -1,0 +1,38 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(71, 149, 194);
+    color: #ffffff;
+}
+
+html{
+    height: 100%;
+    width: 100%;
+}
+
+.banner{
+    background-image: url("https://i.pinimg.com/564x/59/29/34/5929340d6bdb42d4fbbb9774faca684b.jpg");
+    background-size: 100% 100%;
+    border: 5px white solid;
+}
+
+.perfil{
+    position: absolute;
+    background-position-x: right;
+}
+
+h2{
+    color:#005677;
+    background-color:#ffffff;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+section{
+    background-color:#99c2d4;
+}
+
+footer, h4, svg{
+    background-color: #ffffff;
+    color:#005677;
+    text-align: center;
+}
